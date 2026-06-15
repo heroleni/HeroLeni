@@ -51,5 +51,5 @@ A hybrid system designed for efficient donor information management and technica
 ---
 
 ## 🤝 Let's Connect
-* **LinkedIn:** [linkedin.com/in/juan-eduardo-zorrilla](https://linkedin.com/in/juan-eduardo-zorrilla)
-* **Telegram:** [@KaenNoYami](https://t.me/KaenNoYami)
+* **LinkedIn:** [linkedin.com/in/juan-eduardo-zorrilla](https://www.linkedin.com/in/juane-zorrilla/)
+* **Telegram:** [@lenisita](https://t.me/lenisita)
